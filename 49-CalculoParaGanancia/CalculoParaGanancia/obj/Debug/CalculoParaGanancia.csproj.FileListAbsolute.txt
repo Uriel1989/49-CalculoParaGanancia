@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\CalculoParaGanancia\CalculoParaGanancia\bin\Debug\CalculoParaGanancia.exe
+C:\Users\tauro\Desktop\CalculoParaGanancia\CalculoParaGanancia\bin\Debug\CalculoParaGanancia.pdb
+C:\Users\tauro\Desktop\CalculoParaGanancia\CalculoParaGanancia\obj\Debug\CalculoParaGanancia.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\CalculoParaGanancia\CalculoParaGanancia\obj\Debug\CalculoParaGanancia.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\CalculoParaGanancia\CalculoParaGanancia\obj\Debug\CalculoParaGanancia.exe
+C:\Users\tauro\Desktop\CalculoParaGanancia\CalculoParaGanancia\obj\Debug\CalculoParaGanancia.pdb
